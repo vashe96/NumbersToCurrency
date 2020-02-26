@@ -1,0 +1,11 @@
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.exe
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.deps.json
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.runtimeconfig.json
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.runtimeconfig.dev.json
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.dll
+F:\Projects\NumbersToCurrency\bin\Debug\netcoreapp3.1\NumbersToCurrency.pdb
+F:\Projects\NumbersToCurrency\obj\Debug\netcoreapp3.1\NumbersToCurrency.csprojAssemblyReference.cache
+F:\Projects\NumbersToCurrency\obj\Debug\netcoreapp3.1\NumbersToCurrency.AssemblyInfoInputs.cache
+F:\Projects\NumbersToCurrency\obj\Debug\netcoreapp3.1\NumbersToCurrency.AssemblyInfo.cs
+F:\Projects\NumbersToCurrency\obj\Debug\netcoreapp3.1\NumbersToCurrency.dll
+F:\Projects\NumbersToCurrency\obj\Debug\netcoreapp3.1\NumbersToCurrency.pdb
